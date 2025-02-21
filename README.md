@@ -26,4 +26,7 @@ This project demonstrates the use of D3.js to create four different types of cha
 - JavaScript
 - D3.js (v7)
 
-## Project Structure 
+## How to run
+
+- Save all files in the same folder.
+- Open the index.html file in a web browser.
